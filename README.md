@@ -10,6 +10,10 @@
   <a href="mailto:wonirosoida33@gmail.com">
     <img src="https://img.shields.io/badge/Email-wonirosoida33@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/sungwon-lim-7355852a6/">
+    <img src="https://img.shields.io/badge/LinkedIn-Sungwon_Lim-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
 </div>
 
 ---
@@ -50,12 +54,3 @@ I'm a researcher specializing in **RAG systems** that extract knowledge from com
 
 </div>
 
----
-
-### GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sung1Lim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sung1Lim&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</div>

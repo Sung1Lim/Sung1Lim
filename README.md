@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/Sung1Lim.png" width="160" style="border-radius: 50%;" />
   <h1>Sungwon Lim (임성원)</h1>
-  <p><em>Bridging the Gap between Complex Documents and Generative AI</em></p>
+  <p><em>Bridging the Gap between Complex Documents and Generative AI</em></p> 
 
   <a href="https://Sung1Lim.github.io">
     <img src="https://img.shields.io/badge/Portfolio-Sung1Lim.github.io-4A90D9?style=flat-square&logo=github&logoColor=white" />
